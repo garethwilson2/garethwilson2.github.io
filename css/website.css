@@ -5,4 +5,7 @@ body>div.container {
   width: 80%;
   margin: auto;
 }
- H1 {colour:Blue; text-align:Center}
+ H1 {
+   color:Blue; 
+   text-align:Center;
+}
